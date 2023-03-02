@@ -3,6 +3,7 @@
     <HomeFirstSection />
     <HomeSecondSection />
     <HomeThirdSection />
+    <HomeFourthSection />
 </template>
 
 <script>
