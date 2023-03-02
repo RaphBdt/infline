@@ -2,6 +2,7 @@
     <Header />
     <HomeFirstSection />
     <HomeSecondSection />
+    <HomeThirdSection />
 </template>
 
 <script>
