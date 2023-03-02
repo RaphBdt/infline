@@ -17,27 +17,27 @@
 
 <style scoped>
     #colab1 {
-        background-image: url('~/assets/images/colab1.png');
+        background-image: url('~/colab1.png');
         background-color: rgba(0,0,0, 0.2);
     }
     #colab2 {
-        background-image: url('~/assets/images/colab2.png');
+        background-image: url('~/colab2.png');
         background-color: rgba(0,0,0, 0.2);
     }
     #colab3 {
-        background-image: url('~/assets/images/colab3.png');
+        background-image: url('~/colab3.png');
         background-color: rgba(0,0,0, 0.2);
     }
     #colab4 {
-        background-image: url('~/assets/images/colab4.png');
+        background-image: url('~/colab4.png');
         background-color: rgba(0,0,0, 0.2);
     }
     #colab5 {
-        background-image: url('~/assets/images/colab5.png');
+        background-image: url('~/colab5.png');
         background-color: rgba(0,0,0, 0.2);
     }
     #colab6 {
-        background-image: url('~/assets/images/colab6.png');
+        background-image: url('~/colab6.png');
         background-color: rgba(0,0,0, 0.2);
     }
 

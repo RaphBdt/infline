@@ -10,7 +10,7 @@
                 </div>
             </div>
             <div class="w-1/2 flex justify-end">
-                <img class="w-3/4 object-cover h-[550px]" src="~/assets/images/selfie.jpg" alt="Selfie">
+                <img class="w-3/4 object-cover h-[550px]" src="/selfie.jpg" alt="Selfie">
             </div>
         </Container>
     </div>

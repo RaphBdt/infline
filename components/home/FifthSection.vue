@@ -2,7 +2,7 @@
     <div class="bg-black">
         <Container class="flex justify-center items-center py-20">
             <div>
-                <img class="w-[450px]" src="~/assets/images/coach.jpg" alt="">
+                <img class="w-[450px]" src="/coach.jpg" alt="">
             </div>
             <div class="bg-white w-[500px] pt-8 pb-10 px-10 -ml-16">
                 <h3 class="cffont text-[22px] clfont">Jérôme, influenceur sport</h3>
