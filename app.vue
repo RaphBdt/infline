@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p class="logo logo-black">Infline</p>
-    
+    <!-- Markup shared across all pages, ex: NavBar -->
+    <NuxtPage />
   </div>
 </template>
