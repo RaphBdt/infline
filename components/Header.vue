@@ -5,8 +5,8 @@
             <div class="w-1/2">
                 <HomeTitle content="La plateforme n°1 pour trouver un" specialWord="Influenceur" /> 
                 <div class="flex mt-12">
-                    <Button class="mr-8" content="Je suis influenceur" link="/" type="primary" />
-                    <Button content="Je suis une marque" link="/" type="white" />
+                    <Button class="mr-8" content="Je suis influenceur" link="/" type="white" />
+                    <Button content="Je suis une marque" link="/" type="primary" />
                 </div>
             </div>
             <div class="w-1/2 flex justify-end">

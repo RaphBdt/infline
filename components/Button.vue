@@ -9,11 +9,11 @@ export default {
 </script>
 
 <style scoped>
-    .primary {
+    .white {
         background-color: #ffffff;
     }
 
-    .white {
+    .primary {
         background-color: #B188EA;
         color: #ffffff;
     }

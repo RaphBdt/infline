@@ -5,7 +5,7 @@
         </div>
         <div class="w-1/2">
             <h3 class="text-[28px] font-bold relative">Une relation transparente.<img class="absolute left-[190px] -top-[15px]" src="~/assets/images/ellipse.svg" /></h3>
-            <p class="text-[22px] mt-6">Pas de bullshit, pas de chichis. Chez Infline, la relation entre influenceurs et marques est transparente. Prix affichées, conditions définies, tout est clair dès le départ et des deux côtés.</p>
+            <p class="mt-6">Pas de bullshit, pas de chichis. Chez Infline, la relation entre influenceurs et marques est transparente. Prix affichées, conditions définies, tout est clair dès le départ et des deux côtés.</p>
         </div>
     </Container>
 </template>
