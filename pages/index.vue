@@ -1,6 +1,7 @@
 <template>
     <Header />
     <HomeFirstSection />
+    <HomeSecondSection />
 </template>
 
 <script>
